@@ -130,3 +130,10 @@ cv.destroyAllWindows()
  ``` 
 
 카메라(cap)와 VideoWriter(out) 리소스를 해제하고, OpenCV 창을 닫습니다.
+
+## 8. 실행예시(스크린샷)
+![프로그램 스크린샷1](capture1.png)
+
+![프로그램 스크린샷2](capture2.png)
+
+
